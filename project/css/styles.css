@@ -21,3 +21,6 @@ section {
   margin-right: auto;
   background-color: #bfbfbf;
   padding: 24px; }
+  @media only screen and (min-width: 800px) {
+    section {
+      background-color: red; } }
